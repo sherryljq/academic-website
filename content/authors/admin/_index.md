@@ -31,9 +31,11 @@ interests:
 education:
   courses:
   - course: MSc in Statistics
+    affiliation: Department of Mathematics and Statistics
     institution: Xi'an Jiaotong University
     year: 2019-2022
   - course: BSc in Statistics
+    affiliation: Department of Mathematics
     institution: Jilin University
     year: 2015-2019
 
