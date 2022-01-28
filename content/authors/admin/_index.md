@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MAc in Statistics
+  - course: MSc in Statistics
     institution: Xi'an Jiaotong University
     year: 2019-2022
   - course: BSc in Statistics
