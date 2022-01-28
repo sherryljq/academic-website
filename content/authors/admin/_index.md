@@ -1,26 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jiaqi Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSc of Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Xi'an Jiaotong University
+  url: http://math.xjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include High-dimensional data analysis, Robust statistics, Longitudinal data analysis, Machine learning
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Longitudinal data analysis
+- Robust statistics
+- High-dimensional data analysis
+- Robust SVMs
+- Complex correlation structure
+- Bias correction 
+- Smoothed estimating equation
+- Variable selection
 
 # Education to show in About widget
 education:
@@ -42,16 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:lijq0305@stu.xjtu.edu.cn'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Jiaqi-Li-140
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sherryljq
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
