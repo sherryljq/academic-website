@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jiaqi Li
-        李嘉琪
+subtitle:        李嘉琪
 
 # Is this the primary user of the site?
 superuser: true
