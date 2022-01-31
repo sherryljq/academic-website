@@ -16,16 +16,13 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- icon: r-project
   icon_pack: fab
   name: R
-- description: 80%
-  icon: python
+- icon: python
   icon_pack: fab
   name: Python(Pytorch)
-- description: 60%
-  icon: java
+- icon: java
   icon_pack: fad
   name: Java
 
