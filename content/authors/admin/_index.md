@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiaqi Li
+title: Jiaqi Li(李嘉琪)
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,7 +55,7 @@ social:
   link: https://github.com/sherryljq
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.cn/injobs/in/jiaqi-li-9a728b211
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,9 +70,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a MSc student in the Department of Mathematics and Statistics at 
+Xi'an Jiaotong University since September 2019. I obtained my Bachelor’s Degree 
+in the Department of Mathematics at Jilin University in June 2019.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests lie in the general area of complex data analysis, particularly in Longitudinal and Functional data analysis. My previous research includes robust statistics and complex correlation structures in Longitudinal data modelling.
+My current research focuses on High-dimensional data analysis. I am also exploring online optimization and robustness in Machine Learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
